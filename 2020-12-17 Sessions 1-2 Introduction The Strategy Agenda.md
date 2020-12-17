@@ -1,0 +1,93 @@
+# Sessions 1-2 Introduction The Strategy Agenda
+
+## What is Strategic Management? 
+
+### A Simple Definition of Strategy
+Strategy is the ***Long Term Direction*** of an organisation
+
+### Good Strategy involves:
+- An insightful diagnosis of the situation at hand
+- An overall approach (guiding policy) for dealing with the critical issues 
+- A set of coherent actions
+
+### Business Strategy: The Five Key Questions
+<img src="D:\Documents\Cranfield Study\Courses\Strategic Management\Pic\Business Strategy - The Five Key Questions.png" alt="Business Strategy - The Five Key Questions" style="zoom:68%;" />
+
+### Corporate Strategy: The Five Key Questions
+<img src="D:\Documents\Cranfield Study\Courses\Strategic Management\Pic\Corporate Strategy - Key Questions.png" alt="Business Strategy - The Five Key Questions" style="zoom:68%;" />
+
+## Levels of Strategy
+
+- Corporate:
+	What is the overall rationale and scope of the corporation – how can the corporate centre add value to the constituent businesses?
+- Business:
+	How can we compete effectively? 
+	How can we deliver sustainable competitive advantage?
+- Functional:
+	How can the different functional operations contribute to effective implementation of business/corporate strategy?
+
+## Course Structure and Assessment
+### Core Textbook:
+> **Strategy: Theory, Practice, Implementation.** Mackay, B., Arevuo, M., Mackay, D., Meadows, M. (2020). Oxford University Press
+
+### Assessment: 100% Final Examination
+- Closed book exam 
+- 1.5 hour exam
+- Aims to test knowledge of overall module content
+- 6 written questions, covering the module’s topic areas
+- All questions must be answered & carry equal marks: 16.66×6
+- Most questions will ask for examples
+
+## Strategy Content and Process
+
+### A common view of strategy
+
+- a 'top down' deliberate planning process
+- triggered by performance targets
+- rational and analytical
+- logical sequence of steps 
+- involves external and internal analysis 
+- option generation, selection, implementation
+- planning horizon: 5+ years
+- plans translated into detailed budgets etc.
+- the strategic plan drives the business
+- involves staff planning 'experts'
+- may involve external consultants
+- provides evidence of 'control'
+- often required by other stakeholders (e.g. Corporate HQ, Bank)
+
+### Strategy as Deliberate vs Emergent (深思熟虑vs浮现)
+
+![image-20201217141811966](D:\Documents\Cranfield Study\Courses\Strategic Management\Pic\Strategy as Deliberate vs Emergent.png)
+
+#### Why might intended strategies not get realized?
+
+- Poor communication
+- No clear action plan
+- No buy-in/ commitment from top management
+- No buy-in/ commitment from staff
+- Constrained by current corporate culture
+- Inappropriate strategy for the situation
+- Unpredicted external events
+
+#### an alternative view…….Strategy as Emergent
+
+- an on-going conversation
+- involves all those with relevant knowledge
+- emergent and unfolding
+- broad guidelines not ‘blueprints’
+- guidelines help on-going decision making
+- flexible
+
+![image-20201217142245784](D:\Documents\Cranfield Study\Courses\Strategic Management\Pic\Strategy as Emergent.png)
+
+![image-20201217142327437](D:\Documents\Cranfield Study\Courses\Strategic Management\Pic\Strategy as Deliberate vs Emergent1.png)
+
+### Strategy Process: Quality and Commitment
+
+**Critical Issues in the Strategy Process (战略中的关键问题)**
+
+- Quality of Strategy
+- Commitment to Strategy
+
+<img src="D:\Documents\Cranfield Study\Courses\Strategic Management\Pic\Strategy Process - Quality and Commitment.png" alt="Strategy Process - Quality and Commitment" style="zoom:48%;" />
