@@ -1,3 +1,9 @@
+---
+title: Sessions 1-2 Introduction The Strategy Agenda
+categories: [dev]
+comments: true
+---
+
 # Sessions 1-2 Introduction The Strategy Agenda
 
 ## What is Strategic Management? 
