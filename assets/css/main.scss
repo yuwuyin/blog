@@ -323,6 +323,8 @@ img {
 .header_circle {
     border: none;
     box-sizing: border-box;
+	border-style: groove;
+	border-color: #ffd700;
     height: 7rem;
     width: 7rem;
     border-radius: 50%;
@@ -377,7 +379,7 @@ img {
                 width: inherit;
                 height: inherit;
                 position: absolute;
-                left: 100px;
+                left: 0;
                 top: 0;
                 transition: background .5s ease;
             }
