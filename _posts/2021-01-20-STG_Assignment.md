@@ -1,0 +1,108 @@
+---
+title: STG_Assignment
+categories: [STG]
+comments: true
+---
+
+
+***1. Your company has identified a new market opportunity for the firm’s main product in United Arab Emirates (UAE), a new geographic market for the company. Describe the process you would advise the firm to use to conduct external environmental analysis.***
+
+Two frameworks, five forces and PESTEL group, should be used together to analysis the external environment of the new geographic market. 
+
+Firstly, the industry is analyzed by Porter’s five forces. Before it is conducted, the industry should be defined. The regional scope, product areas and customer groups should be clear. The more specific the definition, the more precise the analysis. 
+
+The first step is identifying all the existing competitors involved and the rivalry among them. For example, price-based competition is often the characteristic of high rivalry. Then, defining the buyers and their relative bargaining power. As well as the suppliers. The higher bargaining power they have, the lower profitability the industry has. Next, analysis the other two forces: the threat of substitutes and that of new entrants. The substitutes will attract buyers when price increasing, and the level of rivalry will ultimately increase as easy entrance. The earnable profit in this industry will be limited by these two forces. The five forces help companies to find the competitive position. After that, some basic strategies, like product differentiating for rivalry avoiding and substitute business acquiring for shift risk reducing, can be addressed. 
+
+Since the five forces framework is a snapshot, after the five forces analysis, the PESTEL group, which includes politics, environment, social culture, technology, economic and legal, should be used to analysis the potential influences from the macro environment. They are some factors which may change the power of the five forces. For example, the development of digital technology increases the treat of substitutes in paper industry. It helps to evaluate the potential compete and trends.
+
+(266 words)
+
+***2. Evaluate the usefulness of VRIN analysis to assess an organisation’s sources of competitive advantage.***
+
+VRIN, which means valuable, rare, inimitable and non-substitutable, is a key framework for RBV analysis. Different to MBV analysis like five forces and PESTEL framework, it focuses on inside and aims to find the resources that enable competitive edge adding. 
+
+It is a useful tool to help companies taking deployment of distinctive resources. Valuable resources create value for customer, like PUV increasing and cost reducing. Rare resources, which are supply-limited or not universally available, increase the distinction. Inimitable resources make barriers for others to create same value, such as the brand of Coco-Cola. Non-substitutable resources reduce distraction of focus, like salt. Although it is rare to meet all, a resource can increase competitive edge as long as it fit one of them. 
+
+VRIN framework is particularly useful for assessing and analyzing the internal resources and their potential to add competitive advantage, as well as improving the deployment of them. 
+
+However, it also has some limitations. Firstly, this framework is also a static snapshot. For example, petroleum was non-substitute before, but the threaten of new energy, like solar and wind energy, is increasing recent years. The dynamic capability should be considered for resource adjusting. Secondly, as an inside view, it ignores the impact of management because it owes the performance to the accumulation of resources. Finally, the data of internal resources, like scarcity and inimitability, may be not easy to obtain, especially for some asset-light internet companies. Meanwhile, VRIN focuses on single resources. In fact, these resources are rarely deployed on their own. Some resources, which not fit with VRIN, can still add value with the appropriate resource bundles. Hence, like other frameworks, it is often used in combination with other analytical techniques to give managers a more detailed view of how to drive business growth.
+
+(295 words)
+
+***3. A company has developed a new soap product using only natural ingredients for the UK market. How might it use the ‘Customer Matrix’ to decide its competitive strategy?*** 
+
+ 
+
+Assumptions: This is a kind of bar soap for hand washing. Its name is *NS* (Nature Soap). The price is £1.50 per bar.
+
+Step 1. Draw PUV chart.
+
+Firstly, define specific product category and detailed customer profile. For NS, possibly, the product category is “Soaps and Hand Wash”, and the customers are those people who care about health and life quality.
+
+Secondly, write down dimensions of PUV in customers’ view. Sterilization, flavor, irritant, appearance and stability are selected.
+
+Then, rate PUV dimensions in importance to customer and weight them by percentage. They are 25%, 15%, 30%, 20%, 10% respectively. 
+
+Next, select key competitors and construct the dimensions of PUV chart. *Dettol*, *Dove* and *Faith in Nature* are chosen.
+
+Finally, rank the competitors within -3 to +3 with customers’ PUV on each dimension relative to NS. For example, on the flavor dimension, the ratings of three competitors are -2, 0, 2 respectively.
+
+ 
+
+![img](D:\Documents\GitHub\blog\assets\img\Pic_STG\Assignment_Figure1.jpg) 
+
+<center>Figure 1. Weighting of PUV Dimensions</center>
+
+ 
+
+ 
+
+Step 2. Calculating PUV Scores for every competitor.
+
+Table 1. PUV Scores
+
+![img](/assets/img/Pic_STG/Assignment_Figure2.png) 
+
+Step 3. Plot the Customer Matrix with the PUV scores and customer purchase prices. Then, fit the price curve and find the current competitive position.
+
+![img](/assets/img/Pic_STG/Assignment_Figure2.png) 
+
+<center>Figure 2. Customer Matrix</center>
+
+Step 4. Analyze and make competitive strategy.
+
+To make higher competitive, the position should be move to higher line on northwest, i.e., from the solid line to the dotted line shown on figure 2. Lower price or higher PUV can be considered.
+
+(240 words)
+
+***4. "Cost cutting and focusing on the core business are the foundations of any effective business recovery strategy". Discuss the extent to which you agree with this statement, giving your reasons.*** 
+
+I partly agree with it. Although cost cutting and focusing on the core business are important on business recovery, they are just two strategies on recovery strategy bundle. 
+
+Pursuit of cost efficiencies is a key element, but focusing sole on cost cutting is dangerous. Pursuing higher cost efficiencies is a bundle of strategies. It includes not only eliminating high-cost activities that deliver little customer value, but also the financial structure changing, like throw more money to solve key problems. Meanwhile, it should be not ignored that over-pursuit of cost efficiencies can damage customer value proposition and employee morale, which may damage the future growth.
+
+Focusing on core business is effective to take a bigger market share compare to the same competing products, however, the previous products may not fit customers’ needs any more. For example, Kodak is no longer brilliant although it has the biggest market share on roll film industry. The better strategy is focusing on core activities rather than core businesses, because it enables to move the abilities to higher profit potential and competitive edge areas. Kodak may keep great if it focused on picture-taking and turned to digital camera area. 
+
+Beside cost efficiencies pursuit and core activities focusing, another four elements are also vital on busines recovery: asset retrenchment or divestment, future growth building when the financial stability assured, reinvigoration of firm leadership and culture change. One of the most famous examples of asset divestment is Intel divested the memory chip business, and Jobs retook the CEO for Apple is a good evidence of leadership reinvigoration. 
+
+In summary, the business recovery requires different strategies. A company should select appropriate strategies in consideration of the comprehensive situation like problems faced, corporate governance and external environment. 
+
+(287 words)
+
+***5. You have been appointed Director of Corporate Strategy at a large multi-business corporation. How would you use the Corporate Parenting Matrix to evaluate the corporation's portfolio of business units?***
+
+To evaluate the corporation’s portfolio of strategy business units (SBUs) with the Corporate Parenting Matrix, two dimensions should be valued first.
+
+The first dimension is the “benefit”, i.e., the degree of the fitness between parent’s characteristics or capabilities and businesses’ parenting opportunities. The value creation potential can be a proxy measure for it, so it can be evaluated with the Corporate Value Creation Logics. The corporation’s value creation logic tells where is the key location of value adding. For example, for an e-commerce platform with Consolidation of Support Activities logic, the delivery business will take a high score on “benefit” because the shared delivery service requirement.
+
+The second dimension is the “feel”, i.e., the fitness between the parent’s characteristics and the businesses’ critical success factors. Proximately, the measurement of the cultural capability degree is a quantification for it. The parent’s corporate culture can be analyzed by the Culture Web. The low “feel” may cause the value destruction. For example, an SBU, which requires high-risk for success, is negative for a mistake-equals-death corporation.
+
+With the values on these two dimensions, these SBUs can be filled in different areas on the matrix. The four areas are shown on Figure 3.
+
+For heartland businesses, they are high feel and high benefit. They should be the core strategy on future. For ballast businesses, although the parent understands well, it can do little for them. It is better to see it as an independent company or manage it with different methods if not put it to another value-added corporation. For value trap businesses, although they are opportunities for the parent to add value, they are dangerous since the unfitness between the parents’ characteristics and their critical success factors. Alien businesses, with both misfit and little value-added opportunity, should be divested to avoid value destroying.
+
+![image-20210119215158450](/assets/img/Pic_STG/Assignment_Figure3.jpg)
+
+<center>Figure 3. Corporate Parenting Matrix</center>
+
+(299 words)
